@@ -1,5 +1,6 @@
 {
   "name": "my-react-app",
+  "homepage": "https://cch-developer-arielcopo.github.io/test-react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
